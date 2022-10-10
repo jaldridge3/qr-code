@@ -8,7 +8,7 @@ body {
     height: 100%;
 }
 
-div.card {
+.card {
     width: 320px;
     height: 497px;
     background-color: white;
