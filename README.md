@@ -42,5 +42,6 @@ How to use Frontend Mentor
 ## Author
 
 - Frontend Mentor - [@jaldridge3](https://www.frontendmentor.io/profile/jaldridge3)
+- GitHub - [Jonathon Aldridge](https://github.com/jaldridge3)
 
 ## Acknowledgments
