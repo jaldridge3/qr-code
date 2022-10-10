@@ -18,7 +18,7 @@ body {
     margin: 0 auto;
 }
 
-h1, p, div {
+h1, p, .card {
     display: block;
     justify-content: center;
     margin: 1px auto;
