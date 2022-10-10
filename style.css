@@ -50,3 +50,7 @@ p {
 h1, p {
     font-family: "outfit";
 }
+
+footer {
+    vertical-align: baseline;
+}
