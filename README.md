@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/jaldridge3/Sharing/tree/main/Frontend%20Mentor%20QR%20Code)
+- Solution URL: [Solution](https://jaldridge3.github.io/qr-code/)
 
 ## My process
 
@@ -30,7 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 
 
 ### What I learned
